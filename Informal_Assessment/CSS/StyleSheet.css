@@ -1,0 +1,51 @@
+header {
+  height: 12%;
+  width: auto;
+  padding-left: 10px;
+  background-color: black;
+  color: white;
+  font-family: "Brush Script MT";
+  font-size: 30px;
+}
+
+body {
+  margin: 0%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+  margin: 0%;
+  width: auto;
+  height: 10%;
+  padding-top: 10px;
+  padding-left: 10px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+
+img {
+  width: 25%;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+  border: 5px solid black;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.About {
+  padding-left: 10px;
+}
+
+.Photos {
+  padding-left: 10px;
+}
+
+.Audio {
+  padding-left: 10px;
+}
